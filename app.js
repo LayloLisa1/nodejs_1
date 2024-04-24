@@ -1,0 +1,1 @@
+console.log("Nodemon orqali ishga tushdi");
